@@ -1,2 +1,11 @@
-# Solidity-datatype-from-zero-to-hero
-Solidity datatype from zero to hero
+# Solidity data type from zero-to-hero
+
+ex Git :
+```
+hhh
+mmm
+```
+
+
+
+
